@@ -1,3 +1,3 @@
 # Singly linked list
 
-![image](https://github.com/pooja210603/Stack-using-Array/blob/main/1.png)
+![image](https://github.com/pooja210603/Singly-linked-list/blob/main/sll-ss.png)
